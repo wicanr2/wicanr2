@@ -61,11 +61,11 @@ I'm especially interested in turning AI agents into engineering tools that can i
 
 I also work on preserving and rebuilding classic software and games through:
 
-Traditional Chinese localization
-Reverse engineering
-Cross-platform remakes
-Historical software research
-Documentation and preservation
+- Traditional Chinese localization
+- Reverse engineering
+- Cross-platform remakes
+- Historical software research
+- Documentation and preservation
 
 Many of my repositories are experiments toward a broader goal:
 
