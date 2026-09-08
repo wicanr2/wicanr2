@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Chun-Yu Wang (wicanr2) 👋
 
 I'm a software engineer working across Robotics, AI, and legacy software systems.
@@ -59,7 +57,7 @@ My professional interests include:
 
 I'm especially interested in turning AI agents into engineering tools that can investigate systems, recover specifications, analyze failures, and verify implementations.
 
-🕹️ Software Preservation
+## 🕹️ Software Preservation
 
 I also work on preserving and rebuilding classic software and games through:
 
